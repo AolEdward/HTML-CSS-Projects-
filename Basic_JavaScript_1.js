@@ -1,4 +1,1 @@
-<!DOCTYPE hmtl>
-<html>
-alert("This is an Alert box");	
-</html>
+alert("Hello I am an Alert Box!:);
