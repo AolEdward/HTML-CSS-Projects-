@@ -1,3 +1,7 @@
+h1  { /*Added Text Shadow Effect */
+ color: yellow;
+  text-shadow: 2px 2px 4px #000000;
+}
 p {
 	color: snow;
 	background: black;
